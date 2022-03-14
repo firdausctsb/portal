@@ -1,0 +1,25 @@
+{
+    "user":[
+        {
+            "id": 1,
+            "name": "Ali bin Kamal",
+            "username": "ali",
+            "email": "ali@abc.com",
+            "token": "test123"
+        },
+        {
+            "id": 2,
+            "name": "Abu bin Kalam",
+            "username": "abu",
+            "email": "abu@abc.com",
+            "token": "test123"
+        },
+        {
+            "id": 3,
+            "name": "Ahmad bin Akmal",
+            "username": "ahmad",
+            "email": "ahmad@abc.com",
+            "token": "test123"
+        }
+    ]
+}
